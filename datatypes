@@ -1,0 +1,21 @@
+
+Data types: 
+Dynamic type language
+Two types:
+1)Primitive data type
+2)Non-primitive data type
+
+1)primitive data type: predefined  ; we can store single values
+1)Numbers: integers, floats
+2)String: stream of characters enclosed in quotes
+--->single, double, backtick quotes 
+3)Boolean: true or false 
+4)Null: empty value or no value
+5)undefined ---declared variable with no value
+
+
+1)Numbers:
+
+
+
+
