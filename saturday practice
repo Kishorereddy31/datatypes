@@ -1,0 +1,49 @@
+  //   let num = parseInt(prompt());
+    //     switch (true) {
+    //         case num > 0:
+    //             document.write("Number is Positive")
+    //             break;
+    //         case num == 0:
+    //             document.write("Number is Zero")
+    //             break;
+    //         case num < 0:
+    //             document.write("Number is Negative", "<br>")
+    //             break;
+    //         default:
+    //             document.write("Invalid Input")
+    //     }
+
+    // let day = parseInt(prompt());
+    //     switch (day) {
+    //         case 1:
+                
+    //             document.write("Monday")
+    //             break;
+    //         case 2:
+    //             document.write("Tuesday")
+    //             break;
+    //         case 3:
+    //             document.write("Wenesday", "<br>")
+    //             break;
+    //         case 4:
+    //             document.write("Thursday")
+    //             break;
+    //         case 5:
+    //             document.write("Friday")
+    //             break;
+    //         case 6:
+    //             document.write("Saturday")
+    //             break;
+    //         case 7:
+    //             document.write("Sunday")
+    //             break;
+    //         default:
+    //             document.write("Invalid Input")
+    //     }
+
+    
+
+</script>
+
+</body>
+</html>         
