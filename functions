@@ -1,0 +1,68 @@
+    // }
+
+    // for(let i=1 ;i<=3 ;i++){
+    //     document.write(i,"<br>");
+    
+    // for(let j=1; j<=4 ;j++){
+    //     document.write(j," ");
+    // }
+    // document.write("<br>")
+    // }
+     
+//     for(let i=1; i<=5; i++){
+//         for(let j=1;j<=i;j++){
+//           document.write("*")
+//         }
+//         document.write("<br>")
+//       }
+
+
+// for(let i=1; i<=5; i++){
+//         for(let j=1;j<=i;j++){
+//           document.write("*")
+//         }
+//         document.write("<br>")
+//       }
+
+
+// for (let i = 1; i <= 4; i++) {
+//       for (let j = 1; j <= 4 - i; j++) {
+//         document.write("&nbsp;");
+//       }
+//       for (let k = 1; k <= i; k++) {
+//         document.write("*");
+//       }
+//       document.write("<br>");
+//     }
+//     document.write("<br>");
+
+//  function greet() {
+//     document.write("hi kishore")
+//  }
+//  greet()
+//  document.write("hi mahesh")
+//  greet()
+
+
+    
+// }
+// let name// function g(name){
+//=prompt("Enter your name?")
+
+// g(name)
+
+
+// function a(aa ,bb){
+//     return aa+bb;
+// }
+// let n1=parseFloat(prompt("enter a number1"))
+// let n2=parseFloat(prompt("enter a number2"))
+// let result=a(n1,n2);
+// document.write("The sum is:"+result)
+
+
+// sum=function(n1,n2){
+//     let r=n1+n2
+//     return r
+// }
+// document.write(sum(8,9))
