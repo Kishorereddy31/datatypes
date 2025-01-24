@@ -1,0 +1,52 @@
+/ let c=()=>{
+// document.write(“hi kishore”)
+// }
+// C();
+
+// let x=(x,y)=>{
+//     document.write(x+y)
+// }
+// x(20,30)
+// x(40,50)
+
+// let greet=x=>document.write(x);
+// greet('hello')
+
+// let greet=()=>document.write("hello")
+// greet()
+
+// let age=18;
+// let welcome=(age<18)?
+// ()=>document.write('hi kishore'):
+// ()=>document.write('hi madhu');
+// welcome()
+
+// function task1(){
+//     document.write("Task1 : start")
+// }
+// function task2(){
+//     document.write("Task2 : start")
+// }
+// function task3(){
+//     document.write("Task3 : start")
+// }
+// task1()
+// task2()
+// task3()
+
+// document.write("hi kishore");
+// setTimeout(()=>{
+//     document.write("hi I am waiting")
+// },5000);
+// document.write("I am in Lab")
+
+// function greet(name,callback){
+//     document.write('Hello,${name}!')
+//         callback();  
+// }
+// function sayGoodbye(){
+//     document.write("Goodbye")
+// }
+// greet("sam",sayGoodbye)
+
+  
