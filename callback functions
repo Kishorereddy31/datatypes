@@ -1,0 +1,38 @@
+/ function mainFunction(callback){
+//     document.write("Executing main function")
+//     callback()
+// }
+// function callbackFunction(){
+//     document.write("callbackfunction executed")
+// }
+// mainFunction(callbackFunction)
+
+// function greet(name ,callback){
+//     document.write("hello"+name);
+//     callback();
+// }
+// function goodbye(){
+//     document.write("Goodbye!")
+// }
+// greet("kishore",goodbye)
+
+// function greet(name ,callback){
+//     document.write("hello"+name);
+//     callback()
+// }
+// greet("kishore" ,function(){
+//     document.write("a Python Developer");
+// })
+
+// function fetchData(callback){
+//     document.write("Fetching data..")
+// }setTimeout(function(){
+//     document.write("Data fetched..");
+//     callback()
+// },2000);
+// function processData(){
+//     document.write("processing the fetched data..")
+// }
+// fetchData(processData);
+
+  
